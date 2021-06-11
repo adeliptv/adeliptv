@@ -1,45 +1,55 @@
 #EXTM3U
-#EXTINF:0,V
+#EXTINF:0,beIN MAX 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://8.anbdaouras.xyz/live/6262622222/index.m3u8
-#EXTINF:0,Korek tv
+#EXTINF:0,beIN MAX 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://7.anbdaouras.xyz/live/331210014/index.m3u8
+#EXTINF:0,beIN MAX 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/693996387/index.m3u8
+#EXTINF:0,beIN MAX 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/1203030001/index.m3u8
+#EXTINF:0,beIN MAX 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/0679877787/index.m3u8
+#EXTINF:0,beIN MAX 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/790006668/index.m3u8
+#EXTINF:0,beIN MAX 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://9.anbdaouras.xyz/live/05500021547/index.m3u8
-#EXTINF:0,Biaban Family 
+#EXTINF:0,beIN MAX 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/336
-#EXTINF:0,Zed plus
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/338
-#EXTINF:0,3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/342
-#EXTINF:0,Sport HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/343
-#EXTINF:0,Kurdistan Sports 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/344
-#EXTINF:0,NewLine 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/345
-#EXTINF:0,ARO 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/432
-#EXTINF:0,11
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/433
-#EXTINF:0,Test
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/434
-#EXTINF:0,Helhelok
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/456
-#EXTINF:0,Wesal tv
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/465
-#EXTINF:0,Al Sabah
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/478
-#EXTINF:0,Bein NBA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://7.anbdaouras.xyz/live/44619987771/index.m3u8
+#EXTINF:0,beIN MAX 3 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/5528822225/index.m3u8
+#EXTINF:0,beIN MAX 4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/0303300111/index.m3u8
+#EXTINF:0,beIN MAX 5 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/1611336999/index.m3u8
+#EXTINF:0,beIN MAX 6 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/1666111178/index.m3u8
+#EXTINF:0,beIN MAX 1 LOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://3.amarteyyy.xyz/live/0033016161/index.m3u8
+#EXTINF:0,beIN MAX 2 LOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://3.amarteyyy.xyz/live/8996000478/index.m3u8
+#EXTINF:0,beIN MAX 3 LOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/6232006589/index.m3u8
+#EXTINF:0,beIN MAX 4 LOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/0297000214/index.m3u8
+#EXTINF:0,beIN MAX 5 LOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/49623698574/index.m3u8
+#EXTINF:0,beIN MAX 6 LOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://1.alhawalouh.xyz/live/6555589778/index.m3u8
