@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,V
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://8.anbdaouras.xyz/live/6262622222/index.m3u8
+#EXTINF:0,Korek tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://9.anbdaouras.xyz/live/05500021547/index.m3u8
+#EXTINF:0,Biaban Family 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/336
+#EXTINF:0,Zed plus
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/338
+#EXTINF:0,3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/342
+#EXTINF:0,Sport HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/343
+#EXTINF:0,Kurdistan Sports 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/344
+#EXTINF:0,NewLine 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/345
+#EXTINF:0,ARO 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/432
+#EXTINF:0,11
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/433
+#EXTINF:0,Test
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/434
+#EXTINF:0,Helhelok
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/456
+#EXTINF:0,Wesal tv
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/465
+#EXTINF:0,Al Sabah
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/478
+#EXTINF:0,Bein NBA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
