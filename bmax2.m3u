@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,beIN MAX 1 HD
+#EXTINF:0,beIN MAX 1 HD [Adrar TV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://8.anbdaouras.xyz/live/6262622222/index.m3u8
 #EXTINF:0,beIN MAX 2 HD
