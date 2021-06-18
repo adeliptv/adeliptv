@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",And TV HD 
+http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",And Picture HD 
+http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Colors HD 
+http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Colors Bangla HD 
+http://212.224.98.196:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Colors Cineplex HD 
+http://212.224.98.196:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Colors Infinity HD 
+http://212.224.98.196:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Max HD 
+http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Max 2 
+http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Pix HD 
+http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Sab HD 
+http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Bharat HD 
+http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Jalsha HD 
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Jalsha Movies HD 
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Gold HD 
+http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Gold Select HD 
+http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Plus HD 
+http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Vijay HD 
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Vijay Music HD 
+http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Vijay Super HD 
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Movies Select HD 
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star World HD 
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sun Music HD 
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sangeet Bangla 
+http://212.224.98.196:2200/R-EX/BENGALI_SANGEET_BANGLA-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",UTV HD 
+http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Zee Bangla HD 
+http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Zee Bangla Cinema 
+http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Zee Action 
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_ACTION-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Zee Cinema HD 
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Zee TV HD 
+http://212.224.98.196:2200/R-EX/HINDI_ZEE_TV_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Zee Tamil HD 
+http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Ten 1 HD 
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Ten 2 HD 
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Ten 3 HD 
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony Six HD 
+http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Sports 1 HD 
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Sports 2 HD 
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Sports Select 1 HD 
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Sports Select 2 HD 
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Star Sports 3 HD 
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",T Sports HD 
+http://212.224.98.196:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Sony BBC Earth HD 
+http://212.224.98.196:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Fox Life HD 
+http://212.224.98.196:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Nat Geo Bangla 
+http://212.224.98.196:2200/R-EX/BENGALI_NAT_GEO_BENGALI_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Nat Geo 
+http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",Nat Geo Wild 
+http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=AdrarTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="GmbH-BDIX (সবার চলবে না)",B4U Music 
+http://212.224.98.196:2200/R-EX/HINDI_B4U_MUSIC-in/index.m3u8?token=AdrarTV
