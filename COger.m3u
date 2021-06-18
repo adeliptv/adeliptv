@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRAR TV",RTL
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/e60793f3206129e.m3u8 |User-Agent=1m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/e60793f3206129e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRAR TV",RTL 2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/e1172cb3a0068e2.m3u8 |User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRAR TV",SUPER RTL
@@ -32,7 +32,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/9ccc08ba637f2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRAR TV",VOX DE
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/eb504155b04e9cf.m3u8 |User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRAR TV",ZDF TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/1438d33588c488e.m3u8 |User-Agent=1m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/1438d33588c488e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRAR TV",SAT 1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Germany/c14eab0c581962b.m3u8 |User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRAR TV",ARD 1
