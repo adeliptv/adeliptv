@@ -1,26 +1,54 @@
 #EXTM3U
-#EXTINF:-1,V
-#EXTINF:-1,beIN SPORTS MAX 1 4k
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/486.m3u8
-#EXTINF:-1,beIN SPORTS MAX 2 4k
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/489.m3u8
-#EXTINF:-1,beIN SPORTS MAX 3 4K EN
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/492.m3u8
-#EXTINF:-1,beIN SPORTS MAX 4 4K FR
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/495.m3u8
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/487.m3u8
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/490.m3u8
-#EXTINF:-1,beIN SPORTS MAX 3 HD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/493.m3u8
-#EXTINF:-1,beIN SPORTS MAX 4 HD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/496.m3u8
-#EXTINF:-1,beIN SPORTS MAX 1 SD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/488.m3u8
-#EXTINF:-1,beIN SPORTS MAX 2 SD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/491.m3u8
-#EXTINF:-1,beIN SPORTS MAX 3 SD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/494.m3u8
-#EXTINF:-1,beIN SPORTS MAX 4 SD
-http://188.40.159.100:25461/live/Binartvku/Ks882jndllq9/497.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 1 HD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289046.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 1 SD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289047.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 2 HD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289048.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 2 SD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289049.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 3 HD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289050.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 3 SD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289051.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 4 HD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289052.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 4 SD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289053.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 5 HD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289054.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 5 4K
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289055.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 6 HD
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289056.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 6 4K
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289057.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 1 4K
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289625.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 2 4K 
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289626.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 3 4K 
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289627.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 4 4K 
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289628.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 5 4K
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289629.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX 6 4K
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289630.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX  2F
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289635.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",B S MAX  1F
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289636.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",BS 1 HD fr
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289637.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",BS 2 HD fr
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289638.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",BS 3 HD fr
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289639.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",BS 1F fr
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289640.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",BS 2F fr
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289641.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="ADRARTV",BS 3F fr
+http://dreamsat-iptv.top:8080/live/sdfsdfsdfsds/rGMSeAaH/289642.m3u8
