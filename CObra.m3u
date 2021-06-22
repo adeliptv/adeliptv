@@ -454,29 +454,3 @@ http://199.127.62.234:2082/streams/235_.m3u8?|User-Agent=okhttp/3.12.0
 http://199.127.62.234:2082/streams/236_.m3u8?|User-Agent=okhttp/3.12.0
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[INTERNACIONAL]", CANAL ARABE
 http://199.127.62.234:2082/streams/243_.m3u8?|User-Agent=okhttp/3.12.0
-
-||||| CANAIS ADULTOS |||||
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[ADULTO]", PLAYBOY TV
-http://199.127.62.234:2082/streams/215_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[ADULTO]", SEXTREME
-http://199.127.62.234:2082/streams/216_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[ADULTO]", SEXY HOT
-http://199.127.62.234:2082/streams/217_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[ADULTO]", VENUS
-http://199.127.62.234:2082/streams/218_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[ADULTO]", EROTIC 4
-http://199.127.62.234:2082/streams/249_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[ADULTO]", PASSIE XXX
-http://199.127.62.234:2082/streams/251_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[ADULTO]", EROTIC
-http://199.127.62.234:2082/streams/253_.m3u8?|User-Agent=okhttp/3.12.0
-
-|||||| CANAIS SABER |||||
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[SABER]", 1
-http://199.127.62.234:2082/streams/248_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[SABER]", 2
-http://199.127.62.234:2082/streams/250_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[SABER]", 3
-http://199.127.62.234:2082/streams/252_.m3u8?|User-Agent=okhttp/3.12.0
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CGnpAS9.jpg" group-title="[SABER]", 4
-http://199.127.62.234:2082/streams/41_.m3u8?|User-Agent=okhttp/3.12.0
